@@ -1,0 +1,7 @@
+# Slapti failai
+.env
+*.key
+
+# Laikini failai
+*.log
+*.tmp
