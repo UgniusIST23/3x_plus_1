@@ -1,3 +1,4 @@
+// Šis komentaras pridėtas šakoje 'atnaujinimas'
 <?php
 $sk = 69;
 $count = 0;
